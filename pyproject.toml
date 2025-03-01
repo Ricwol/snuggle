@@ -1,0 +1,14 @@
+[project]
+name = "snuggle"
+version = "0.1.0"
+description = "snuggle - A slow data manipulation and analysis library"
+readme = "README.md"
+authors = [
+    { name = "Ricwol" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
